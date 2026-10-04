@@ -1,5 +1,6 @@
 **PikViewer** is a lightweight Windows image viewer designed to provide a clean and simple viewing experience without unnecessary UI elements. 
 The project was created entirely using AI(Claude+ChatGPT), as an alternative to existing HDR image viewers while keeping the interface minimal, responsive and practical for everyday use.
+Its capable of viewing HDR content and convert it to PNG/JPG
 
 
 Why i did this? 
