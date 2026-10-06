@@ -1,0 +1,6 @@
+#include <windows.h>
+#define IDI_PIKVIEWER 101
+#define IDI_PIKVIEWER_BLANK 102
+IDI_PIKVIEWER ICON "Assets\\PikViewer.ico"
+
+IDI_PIKVIEWER_BLANK ICON "Assets\\PikViewer_blank.ico"
